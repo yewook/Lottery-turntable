@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "roulette": "../component/roulette/roulette"
+  }
+}

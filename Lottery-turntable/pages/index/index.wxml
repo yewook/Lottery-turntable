@@ -1,0 +1,4 @@
+<view class="container">
+  <view>剩余抽奖次数：{{lotteryNum}}次</view>
+  <roulette options="{{rouletteData}}" angel="{{angel}}" bind:getAngel="getAngel" bind:getPrize="getPrize" />
+</view>

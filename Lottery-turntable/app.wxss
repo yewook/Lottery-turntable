@@ -1,0 +1,9 @@
+/**app.wxss**/
+page {
+  background-color: #f8f8f8;
+  height: 100%;
+  font-family: "Microsoft YaHei", "Helvetica Neue", "Hiragino Sans GB", "\9ED1\4F53", Arial;
+}
+.container {
+  height: 100%;
+} 
